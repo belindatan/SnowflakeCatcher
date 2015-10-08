@@ -5,7 +5,7 @@ Snowflake[]colony;
 
 void setup()
 {
-  frameRate(20);
+ // frameRate(20);
  size(500,500);
  //image(background,0,0,500,500);
  colony=new Snowflake[299];
